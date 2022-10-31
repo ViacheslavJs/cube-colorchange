@@ -11,6 +11,8 @@ h1 {
 
 .square {
   cursor: pointer;  
+  transition: background 0.1s;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 .color-selected-cancel { 
